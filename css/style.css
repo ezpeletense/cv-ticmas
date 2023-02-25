@@ -241,7 +241,7 @@ p {
   margin-right: 2px;
 }
 
-/* Media querys */
+/* Media queries */
 @media (max-width: 1000px) {
   .container {
     margin: 10px;
